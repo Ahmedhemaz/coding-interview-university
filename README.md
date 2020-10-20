@@ -826,16 +826,16 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 - Notes:
     - There are 4 basic ways to represent a graph in memory:
-        - objects and pointers
-        - adjacency matrix
-        - adjacency list
-        - adjacency map
+        - [ ] objects and pointers
+        - [X] adjacency matrix
+        - [X] adjacency list
+        - [X] adjacency map
     - Familiarize yourself with each representation and its pros & cons
     - BFS and DFS - know their computational complexity, their trade offs, and how to implement them in real code
     - When asked a question, look for a graph-based solution first, then move on if none
 
 - [ ] MIT(videos):
-    - [ ] [Breadth-First Search](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
+    - [X] [Breadth-First Search](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
     - [ ] [Depth-First Search](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
 
 - [ ] Skiena Lectures - great intro:
@@ -869,7 +869,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] DFS with adjacency list (iterative with stack)
     - [ ] DFS with adjacency matrix (recursive)
     - [ ] DFS with adjacency matrix (iterative with stack)
-    - [ ] BFS with adjacency list
+    - [X] BFS with adjacency list
     - [ ] BFS with adjacency matrix
     - [ ] single-source shortest path (Dijkstra)
     - [ ] minimum spanning tree
