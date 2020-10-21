@@ -866,7 +866,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 - I'll implement:
     - [X] DFS with adjacency list (recursive)
-    - [ ] DFS with adjacency list (iterative with stack)
+    - [X] DFS with adjacency list (iterative with stack)
     - [ ] DFS with adjacency matrix (recursive)
     - [ ] DFS with adjacency matrix (iterative with stack)
     - [X] BFS with adjacency list
