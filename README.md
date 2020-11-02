@@ -875,7 +875,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] minimum spanning tree
     - DFS-based algorithms (see Aduni videos above):
         - [X] check for cycle (needed for topological sort, since we'll check for cycle before starting)
-        - [ ] topological sort
+        - [X] topological sort
         - [X] count connected components in a graph
         - [X] list strongly connected components
         - [X] check for bipartite graph
